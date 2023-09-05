@@ -1,4 +1,6 @@
 # business-analytics-notes
+
+read this https://antonz.org/dataviz-guide/
 notes about business analytics 
 
 # What is Analytics?
