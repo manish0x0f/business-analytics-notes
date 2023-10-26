@@ -12,6 +12,8 @@ Turning lots of data into a business insight.(source: https://yewtu.be/watch?v=d
 - Apache superset
 - Metabase
 - Yandex datalens
+- redash.io
+- https://blog.datawrapper.de/migrating-our-web-app-to-sveltekit/
 
 # blogs
 
