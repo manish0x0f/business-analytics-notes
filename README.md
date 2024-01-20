@@ -3,6 +3,8 @@
 read this https://antonz.org/dataviz-guide/
 notes about business analytics 
 
+https://vid.puffyan.us/watch?v=XXG-ESzB9Q8
+
 # What is Analytics?
 Turning lots of data into a business insight.(source: https://yewtu.be/watch?v=diaZdX1s5L4)
 
