@@ -13,6 +13,8 @@ https://gist.github.com/pauloxnet/0fa24efcca6946550eeee2133aa3fbd0
 
 https://gist.github.com/pauloxnet/2d017dc7fa1b5c950a4f3df12c0663c7
 
+https://vid.puffyan.us/watch?v=bvLJTNRpnt8(how to hack a django)
+
 # What is Analytics?
 Turning lots of data into a business insight.(source: https://yewtu.be/watch?v=diaZdX1s5L4)
 
