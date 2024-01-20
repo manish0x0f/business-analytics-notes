@@ -5,6 +5,8 @@ notes about business analytics
 
 https://vid.puffyan.us/watch?v=XXG-ESzB9Q8
 
+read this guy blog https://dreisbach.us/page/9/
+
 # What is Analytics?
 Turning lots of data into a business insight.(source: https://yewtu.be/watch?v=diaZdX1s5L4)
 
