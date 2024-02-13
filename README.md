@@ -18,6 +18,8 @@ https://vid.puffyan.us/watch?v=bvLJTNRpnt8(how to hack a django)
 # What is Analytics?
 Turning lots of data into a business insight.(source: https://yewtu.be/watch?v=diaZdX1s5L4)
 
+https://www.amorphousdata.com/blog/data-is-not-a-strategy
+
 # Data Analysis
 
 # Tools
